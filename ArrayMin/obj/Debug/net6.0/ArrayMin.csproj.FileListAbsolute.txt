@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\bin\Debug\net6.0\ArrayMin.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\bin\Debug\net6.0\ArrayMin.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\bin\Debug\net6.0\ArrayMin.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\bin\Debug\net6.0\ArrayMin.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\bin\Debug\net6.0\ArrayMin.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\refint\ArrayMin.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ArrayMin.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArrayMin\obj\Debug\net6.0\ref\ArrayMin.dll

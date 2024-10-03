@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\bin\Debug\net6.0\ArraySum.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\bin\Debug\net6.0\ArraySum.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\bin\Debug\net6.0\ArraySum.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\bin\Debug\net6.0\ArraySum.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\bin\Debug\net6.0\ArraySum.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\refint\ArraySum.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ArraySum.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task04.10.24\ArraySum\obj\Debug\net6.0\ref\ArraySum.dll
